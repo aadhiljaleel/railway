@@ -1,0 +1,17 @@
+
+/* Optional external stylesheet.
+   The Streamlit app already contains the main styling.
+   Keep this file if you later decide to inject external CSS. */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.dashboard-card {
+    border-radius: 16px;
+    padding: 20px;
+}
+
+.risk-meter {
+    border-radius: 50%;
+}
